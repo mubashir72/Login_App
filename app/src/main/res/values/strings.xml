@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Login_App</string>
+    <string name="text1">Welcome/Back</string>
+    <string name="email_input">Email</string>
+    <string name="password_input">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="sign_in">Sign in</string>
+    <string name="text2">Dont have an account?</string>
+    <string name="text3">Sign up</string>
+    <string name="text4">SignUp</string>
+    <string name="text5">Already have an account</string>
+    <string name="text6">SignUp</string>
+    <string name="name_signup">Name</string>
+    <string name="email_signup">Email</string>
+    <string name="password_signup">Password</string>
+    <string name="confirm_password_signup">Confirm Password</string>
+    <string name="signup">SignUp</string>
+</resources>
